@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="App Store Management Platform Banner">
+</p>
+
 <h1 align="center">🚀 App Store Management Platform</h1>
 
 <p align="center">
